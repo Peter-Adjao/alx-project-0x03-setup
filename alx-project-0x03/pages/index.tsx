@@ -1,4 +1,4 @@
-import { PageRouteProps } from "../interface"; // Imported interface
+import { PageRouteProps } from "@/interface"; // Imported interface
 import Button from "@/components/common/Button";
 import { useRouter } from "next/router";
 
